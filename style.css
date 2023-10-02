@@ -1,0 +1,37 @@
+div {
+  background-color: rgb(251, 81, 203);  
+ }
+
+ #firstDiv { background-color: rgb(106, 106, 192);
+}
+
+ .redElements { background-color: rgb(81, 179, 179);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 450;
+ font-size: 2em;
+
+
+}
+
+.tallElements { height: 65px;
+}
+
+#firstDiv, .redElements { color: rgb(219, 227, 4);
+}
+
+#separateDiv p {color: blue; 
+}
+ 
+.squareElement {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(95, 231, 163);
+   border-color: rgb(29, 70, 70);
+   
+}
+
+
+.child {
+    width: 20%;
+}
